@@ -77,7 +77,7 @@ if __name__ == "__main__":
             fpath = "/home/hackingtoolpath.txt"
             if not os.path.exists(fpath):
                 os.system('clear')
-                # run.menu()
+                 run.menu()
                 print("""
                         [@] Set Path (All your tools will be installed in that directory)
                         [1] Manual 
